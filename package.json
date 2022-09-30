@@ -1,0 +1,15 @@
+{
+  "name": "linreg",
+  "version": "1.0.0",
+  "description": "1. [Install compiler](https://emscripten.org/docs/getting_started/downloads.html)",
+  "main": "linreg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@node-minify/cli": "^7.0.0",
+    "@node-minify/uglify-js": "^7.0.0"
+  }
+}
