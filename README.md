@@ -6,7 +6,7 @@ Simple scalar OLS linear regression in C, compiled to WebASM. Demo project to se
 If you want to compile (optional):
 
 1. [Install compiler](https://emscripten.org/docs/getting_started/downloads.html)
-2. make clean install
+2. make clean all
 
 If you want to run:
 1. npm install .
