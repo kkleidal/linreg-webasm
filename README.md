@@ -1,7 +1,7 @@
 WebASM Linear Regression
 ========================
 
-Just wanted to do this quick project to see what it was like compiling C to webasm and wrapping with javascript.
+Simple scalar OLS linear regression in C, compiled to WebASM. Demo project to see how webasm compilation worked.
 
 If you want to compile (optional):
 
